@@ -19,7 +19,7 @@ form.addEventListener("submit", (e) => {
     }
     console.log(newvalue)//counter of chai
 
-    counter.innerText=("Count of CHAI ➡️"+    newvalue)
+    counter.innerText=("Count of CHAI ➡️   "+    newvalue)
 });
 
 let formValidation = () => {
